@@ -122,6 +122,8 @@ const About = () => {
                                 </a>
                             </article>
                         </div>
+
+
                         <form
                             className="flex flex-col gap-2 text-black"
                             ref={form} onSubmit={sendEmail}
